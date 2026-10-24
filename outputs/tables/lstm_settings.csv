@@ -1,0 +1,5 @@
+site,model,horizon,setting
+bayou_perot,lstm,1-3,"hidden=32; seq_len=14; inputs=19; params=6883; best_epochs=[3, 4, 19]; seeds=3"
+vermilion,lstm,1-3,"hidden=32; seq_len=14; inputs=16; params=6499; best_epochs=[19, 23, 13]; seeds=3"
+lake_houston,lstm,1-3,"hidden=32; seq_len=14; inputs=16; params=6499; best_epochs=[12, 17, 16]; seeds=3"
+spring_creek,lstm,1-3,"hidden=32; seq_len=14; inputs=19; params=6883; best_epochs=[16, 8, 10]; seeds=3"

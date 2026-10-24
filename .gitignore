@@ -1,0 +1,21 @@
+# Raw downloads (about 175 MB; re-created by scripts/01_download_data.py)
+raw_data/
+
+# Documents
+*.docx
+*.doc
+
+# Python caches and environments
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.log
+
+# Secrets and OS clutter
+.env
+*.env
+.DS_Store
+Thumbs.db
